@@ -4,3 +4,4 @@
 **Last Name:**  Chaturvedi
 **Full Name:**  Harsh Chaturvedi
 *Preferred Name:* Harsh 
+*Favorite Color:* Blue
