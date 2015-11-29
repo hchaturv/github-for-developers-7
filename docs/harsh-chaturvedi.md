@@ -3,5 +3,6 @@
 **First Name:** Harsh
 **Last Name:**  Chaturvedi
 **Full Name:**  Harsh Chaturvedi
-*Preferred Name:* Harsh 
+**Current City:** Baltimore, MD
+*Preferred Name:* Harsh
 *Favorite Color:* Blue
